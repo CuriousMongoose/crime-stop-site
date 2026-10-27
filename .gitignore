@@ -1,3 +1,7 @@
 *.zip
 *:Zone.Identifier
 .playwright-mcp/
+
+# Unencrypted source of the password-protected preview, and StatiCrypt config
+preview-src/
+.staticrypt.json
